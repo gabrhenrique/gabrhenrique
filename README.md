@@ -4,7 +4,5 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7D33C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)](#)
 [![React Native](https://img.shields.io/badge/React_Native-5ED3F3?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
-[![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=jav&logoColor=white&labelColor=000)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4C7491?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000)](#)
 [![Figma](https://img.shields.io/badge/Figma-563D7C?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
