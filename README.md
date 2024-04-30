@@ -6,6 +6,7 @@
 
 ### Tools:
 [![VSCode](https://img.shields.io/badge/VSCode-269FF0?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)](#)
+[![Figma](https://img.shields.io/badge/Figma-A55EFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
 
 ## Learning:
 [![React Native](https://img.shields.io/badge/React_Native-21BEFD?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
