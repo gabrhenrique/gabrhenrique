@@ -10,9 +10,7 @@
 [![Figma](https://img.shields.io/badge/Figma-A55EFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
 
 ## Learning:
-[![React](https://img.shields.io/badge/React-21BEFD?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
-[![React Native](https://img.shields.io/badge/React_Native-21BEFD?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)](#)
+
 
 
 
