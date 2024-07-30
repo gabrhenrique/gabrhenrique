@@ -5,10 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DC55?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000)](#)
 
-### Tools:
-[![VSCode](https://img.shields.io/badge/VSCode-269FF0?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)](#)
-[![Figma](https://img.shields.io/badge/Figma-A55EFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
-
 ## Learning:
 
 
