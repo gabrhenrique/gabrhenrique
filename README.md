@@ -7,6 +7,6 @@
 
 ## Learning:
 
-
-
-
+[![React](https://img.shields.io/badge/React-1FD9FE?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DC55?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-188ECD?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)](#)
