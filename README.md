@@ -8,4 +8,4 @@
 ## Learning:
 
 [![React](https://img.shields.io/badge/React-1FD9FE?style=for-the-badge&logo=react&logoColor=white&labelColor=000)](#)
-[![Figma](https://img.shields.io/badge/Figma-1DD386?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
+[![UI Design](https://img.shields.io/badge/UIDesign-ED6161?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)](#)
